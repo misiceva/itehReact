@@ -6,7 +6,7 @@ const Onama = () => {
   return (
     <React.Fragment>
       <section>
-        <h1>O nama</h1>
+        <h1>Ovo je sajt za zapošljavanje u Srbiji, namenjen poslodavcima i ljudima koji traže posao.</h1>
         <Link to='/'>
           <Button>Nazad</Button>
         </Link>
